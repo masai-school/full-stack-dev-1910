@@ -55,4 +55,4 @@ Navigate to folder  `~/repos/assignments-data` directory and execute the below c
 ls -1R data/ > <firstname_lastname>.txt
 ```
 This should create a file with the given name.   
-Copy this file in the `cohort_2` repo inside the folder `submissions/<your_folder>/week_01/day_1/assignments/`  (create the folders of they don't exist). Then, commit and push the file to the online GitHub repository.
+Copy this file in the `cohort_3` repo inside the folder `submissions/<your_folder>/week_01/day_1/assignments/`  (create the folders of they don't exist). Then, commit and push the file to the online GitHub repository.
