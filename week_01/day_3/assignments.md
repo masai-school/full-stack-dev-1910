@@ -16,7 +16,7 @@ Your html code show pass the validator test you can check by yourself using this
 - Create a folder called `day_3` inside `week_01`
 - Create a folder called `assignments` inside `day_3`
 - Navigate the `day_3` folder
-- Download the file https://github.com/masai-school/full-stack-dev-1908/raw/master/course/week_1/day_2/resources/w1_d3.zip (HINT: Use `wget`)
+- Download the file https://github.com/masai-school/full-stack-dev-1910/raw/master/week_01/day_3/resources/w1_d3.zip (HINT: Use `wget`)
 - Unzip the downloaded zip file
 
 ### FSD.M1.B.2 
