@@ -28,7 +28,7 @@ Append the current date to previously created file called `date.txt` in **FSD.CM
 
 ### FSD.CMD.2.5
 
-See the file `date.txt` using `less` command and calculate see how much time you spend between solving **FSD.W1.3.1_2** and **FSD.W1.3.1_4**
+See the file `date.txt` using `less` command and calculate see how much time you spend between solving **FSD.CMD.2.3** and **FSD.CMD.2.4**
 
 ### FSD.CMD.2.6
 
