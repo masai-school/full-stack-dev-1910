@@ -15,7 +15,7 @@
 ### FSD.M1.D.1 
 
 - Create a file called `periodic_table.html` 
-- Write `html` code so that it looks like the given image https://raw.githubusercontent.com/masai-school/full-stack-dev-1910/master/course/week_01/day_5/resources/periodic_table.jpg
+- Write `html` code so that it looks like the given image https://raw.githubusercontent.com/masai-school/full-stack-dev-1910/master/week_01/day_5/resources/periodic_table.jpg
 
 
 
