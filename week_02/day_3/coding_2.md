@@ -42,12 +42,12 @@ You can't use any style tags for any of the html tags and you have to use classe
 ### FSD.CSS.7.6
 
 - Create a file called `layout_6.html` 
-- Write `html` code so that it looks like the given image https://raw.githubusercontent.com/masai-school/full-stack-dev-1910/master/week_01/day_4/layouts/layout_7.jpg
+- Write `html` code so that it looks like the given image https://raw.githubusercontent.com/masai-school/full-stack-dev-1910/master/week_01/day_4/layouts/layout_6.jpg
 
 ### FSD.CSS.7.7
 
 - Create a file called `unix.html` 
-- Write `html` code so that it looks like the given image https://raw.githubusercontent.com/masai-school/full-stack-dev-1908/master/course/week_1/day_3/resources/css_1.jpg
+- Write `html` code so that it looks like the given image https://raw.githubusercontent.com/masai-school/full-stack-dev-1910/master/week_01/day_4/resources/css_1.jpg
 - Image Links
   - https://raw.githubusercontent.com/masai-school/full-stack-dev-1910/master/week_01/day_4/resources/images/khan.jpg
   - https://raw.githubusercontent.com/masai-school/full-stack-dev-1910/master/week_01/day_4/resources/images/linus.jpg
