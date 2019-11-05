@@ -420,11 +420,11 @@ true
 false
 ```
 
-The **lesser than equal to operator** `>=` also checks if the second value could be equal to the first value. 
+The **lesser than equal to operator** `<=` also checks if the second value could be equal to the first value. 
 
 ```javascript
-10 > 10
-10 >= 10
+10 < 10
+10 <= 10
 ```
 
 **Output:**
