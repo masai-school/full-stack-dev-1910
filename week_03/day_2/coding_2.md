@@ -1,7 +1,8 @@
 # Week 3 - Day 2
 
 Install node environment:
-`https://github.com/masai-school/full-stack-dev-1908/wiki/Node-Installation`
+
+[https://github.com/masai-school/full-stack-dev-1908/wiki/Node-Installation](https://github.com/masai-school/full-stack-dev-1908/wiki/Node-Installation)
 
 #### Coding Session 2
 
