@@ -156,7 +156,7 @@ l
 
 In the above code `s[0]` accesses the first character of the string `s` and `s[s.length-1]` accesses the last element of the string `s`.
 
-If you are wondering why the first element is not `s[1]` this is because of **Zero-based Indexing**. You can read more about it here https://skillcrush.com/2013/01/17/why-programmers-start-counting-at-zero/
+If you are wondering why the first element is not `s[1]` this is because of **Zero-based Indexing**. You can read more about it here [http://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD831.html](http://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD831.html)
 
 Lastly you can also use loops to access every character in a string one-by-one. 
 
