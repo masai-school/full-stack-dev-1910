@@ -2,7 +2,7 @@
 
 #### Assignment
 
-### FSD.JS.1.4
+### FSD.M2.A.1
 
 - File `taxCalculator.js` 
 - Should be able to calculate the tax based on the income and savings
