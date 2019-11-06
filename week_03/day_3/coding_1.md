@@ -2,7 +2,7 @@
 
 #### Coding 1
 
-Submission folder ```submissions/<your_folder>/week_12/day_3/session_1```
+Submission folder ```submissions/<your_folder>/week_3/day_3/session_1```
 
 ### FSD.JS.2.1
 
