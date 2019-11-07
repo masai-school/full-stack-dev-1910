@@ -10,7 +10,7 @@
 
 ### FSD.GIT.2.1
 
-- Create two folders `account_1` and `account_2` inside `~/coding/week_3/day_1/session_1` folder
+- Create two folders `account_1` and `account_2` inside `~/coding/week_3/day_4/session_2` folder
 - Create a folder inside `account_1` with the name `collab_test`
 - Initialise a git repo inside `collab_test`
 - Create a file called `start` inside `collab_test` with the current timestamp
