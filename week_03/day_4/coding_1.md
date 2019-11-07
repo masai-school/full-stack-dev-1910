@@ -4,6 +4,30 @@
 
 Submission folder `submissions/<your_folder>/week_3/day_4/session_1`
 
+`Follow clean code principles`
+
+
+Union  
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Venn0111.svg/220px-Venn0111.svg.png
+
+Intersection  
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Venn0001.svg/220px-Venn0001.svg.png
+
+Difference  
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Venn0100.svg/220px-Venn0100.svg.png
+
+Symmetic Difference  
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Venn0110.svg/220px-Venn0110.svg.png
+
+Subset & Superset  
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Venn_A_subset_B.svg/150px-Venn_A_subset_B.svg.png
+
+
 ### FSD.JS.4.1
 - File `mirrorImage.js` 
 - Print the mirror image of the given string `AyzB` should become `ZbaY`
