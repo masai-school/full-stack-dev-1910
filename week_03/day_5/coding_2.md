@@ -66,4 +66,5 @@ Example of invalid email id
 - `Basic` user will have a credit limit of Rs. 80,000
 - `Premium` user will have a credit limit of Rs. 3,00,000
 - `Platinum` user will have a credit limit of Rs. 6,00,000
+- Update the credit limit according to the new status
 - return the new object
