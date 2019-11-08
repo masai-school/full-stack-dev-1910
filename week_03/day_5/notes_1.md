@@ -222,6 +222,10 @@ var person = {
     }
 }
 
+person.display()
+// You have called the dispaly function
+
+
 // try this
     name = 'Masai'
     console.log(name["length"] )
