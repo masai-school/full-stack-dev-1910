@@ -5,6 +5,8 @@
 
 ### More Types!
 
+[Codepen](https://codepen.io/albseb511/pen/vYYjVEv)
+
 We have already discussed a few types of **primitive** data in JavaScript like `string` `number` `boolean`.
 
 Lets discuss a few more:  

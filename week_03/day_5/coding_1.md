@@ -57,3 +57,9 @@ student = {
 
 }
 ```
+
+### FSD.JS.5.7
+- File `findCountDuplicates.js`
+- Write a function which accepts an array as argument and a target value
+- Return total count of the target value in the array
+- Use objects
