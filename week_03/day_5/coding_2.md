@@ -2,7 +2,7 @@
 
 ### Coding 1
 
-Submission folder `submissions/<your_folder>/week_3/day_5/session_1`
+Submission folder `submissions/<your_folder>/week_3/day_5/session_2`
 
 `Follow clean code principles`
 
