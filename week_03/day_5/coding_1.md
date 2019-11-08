@@ -41,7 +41,7 @@ student = {
 ```
 
 ### FSD.JS.5.6
-- File `findAverageMarks.js`
+- File `findAverageMarks2.js`
 - Write a function `avgMarks` which accepts an object as argument. 
 - Invoke the average function inside the function `avgMarks`
 - the average function should calculate the average of the marks of the student
