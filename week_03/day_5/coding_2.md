@@ -35,7 +35,7 @@ Example of invalid email id
 
 ### FSD.JS.5.9
 - File `propertyCheck.js` 
-- Write a function which will check if the property/key value of email is valid
+- Write a function which will check if the property/key exists in an object
 - return true if valid, else false
 - invalid value should also be marked as false
 
