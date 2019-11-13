@@ -6,7 +6,7 @@
 
 ### FSD JS.8.1
 
-- Pull the `cohort_3` repo
+- Pull the `full-stack-dev-1910` repo
 - Go to `templates/week_4/day_3/` 
 - Complete all the functions in the 5 files in your folder
    - `alerts.html`

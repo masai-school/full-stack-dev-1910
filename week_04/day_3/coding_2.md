@@ -4,9 +4,8 @@
 
 **SUBMISSION:**
 
-- Pull the `cohort_3` repo
-- Go to `templates/week_4/day_3/` 
-- Copy  the folder `session_2`  to `submissions/<your_folder>/week_4/day_3`
+
+- Create a folder `session_2` in `submissions/<your_folder>/week_4/day_3`
 - Complete all the problems given below in the `index.html` file.
 - Push your completed folder back to the online repo
 - Use CSS to style your page
