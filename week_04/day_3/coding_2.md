@@ -16,7 +16,7 @@
 
 **NOTE2:** Indent your code correctly and stick to one kind of naming style
 
-### FSD.W3.2.2_1
+### FSD JS.8.2
 
 The index.html file provided has a various tags. You must fill in valid `id` and other attributes for these elements to make the buttons work. 
 
@@ -27,13 +27,13 @@ When the user clicks the button the following must happen:
 2. If the user is younger than 18 print `You can't drive in India` in the `p` tag.  
 3. If the user is exactly 18 years old print `You are just old enough to drive in India!` in the `p` tag.
 
-### FSD.W3.2.2_2
+### FSD JS.8.3
 
 Using JavaScript do the following:
 
 1. When the button `Click here to change my color` is clicked, the color of the button must change according to the text input. Eg: If the text input is `red` the color of the button must also change to red!
 
-### FSD.W3.2.2_3
+### FSD JS.8.4
 
 For this section you would have noticed the a empty 
 `select` element.
