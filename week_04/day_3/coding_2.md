@@ -18,7 +18,7 @@
 
 ### FSD JS.8.2
 
-The index.html file provided has a various tags. You must fill in valid `id` and other attributes for these elements to make the buttons work. 
+Create an index.html file. You must fill in valid `id` and other attributes for these elements to make the buttons work. 
 
 Using Javascript do the following:
 
