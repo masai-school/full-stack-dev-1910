@@ -6,7 +6,7 @@
 Import your js files into your html file
 
 ```
-<script src="index.js"></script>
+<script type="text/javascript" src="jsfile.js"></script>
 ```
 
 
