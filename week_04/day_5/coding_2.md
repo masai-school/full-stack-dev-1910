@@ -17,6 +17,7 @@ Hint:
 
 ### FSD.JS.10.5
 
+- Create an html page `session2_part2.html`
 - Use an eventlistener to create the layout in the images below
 - There is a div element called container with a submit button
 - when the mouse moves inside the container, the background oclor of submit has to change to another color
