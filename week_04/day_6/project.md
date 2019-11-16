@@ -124,8 +124,7 @@ HINT: How to use a separate `css` file and `js` file
   - Expect the output of every program to become the input to another, as yet unknown, program. Don't clutter output with extraneous information. Avoid stringently columnar or binary input formats. Don't insist on interactive input.
   - Design and build software, even operating systems, to be tried early, ideally within weeks. Don't hesitate to throw away the clumsy parts and rebuild them.
   - Use tools in preference to unskilled help to lighten a programming task, even if you have to detour to build the tools and expect to throw some of them out after you've finished using them.
-- For all the projects you need to work mostly on array manipulations so you can refer to the below codepen for help https://codepen.io/nrupuld/pen/dybNEWJ?editors=1011
-  
+
 
 **SUBMISSION**
 
