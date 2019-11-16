@@ -130,12 +130,12 @@ HINT: How to use a separate `css` file and `js` file
 **SUBMISSION**
 
 - Deadline 24 Aug 2019 17:00
-- Create the project in `~/projects/masai/week_3`
+- Create the project in `~/projects/masai/week_4`
 - The name of the  page should be `index.html`
 - The name of the `css` file should be `style.css`
 - The name of the `js` file should be `script.js`
 - Any images or icons you use should be put in a folder called `resources`
-- The project should be made available on your github http://github.com account with the repository name `masai-week-3`
+- The project should be made available on your github http://github.com account with the repository name `masai-week-4`
 
 
 
