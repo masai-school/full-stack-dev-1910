@@ -1,4 +1,4 @@
-# `Assignment`
+# `Assignment Sprint-2`
 
 - Create a page `index.html`
 - The webpage should be able to handle students data
@@ -10,7 +10,7 @@
     - name
     - grade / standard
     - marks
-- Display in tabular form data of students based on grade/standard
+- Display in tabular form data of students based on grade/standard. User should be able to select the grade, and the table should change
 - Show total and average marks for students belonging to each grade also in the table
 - Use the following subjects:
     - Science
