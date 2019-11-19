@@ -34,7 +34,7 @@ Using setAttribute() to modify certain attributes, most notably value in XUL, wo
 
 The `getAttribute()` method gets the specified attribute of an element.
 
-
+[https://codepen.io/albseb511/pen/mddvErX](https://codepen.io/albseb511/pen/mddvErX)
 
 **removeAttribute**
 
