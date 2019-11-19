@@ -1,6 +1,6 @@
 # Week 5 - Day 2
 
-#### Coding Session 1
+#### Coding Session 2
 
 **SUBMISSION:**
 - goto a `session_2` folder 
