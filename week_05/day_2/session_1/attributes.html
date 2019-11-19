@@ -1,0 +1,123 @@
+<html>
+    <head>
+        <title>Practise Attributes</title>
+        <style type="text/css">
+            .class-h1 {
+                color: red
+            }
+            .class-h3 {
+                color: green;
+            }
+            .class-h5 {
+                color: orange;
+            }
+            .class-div {
+                color: yellow;
+                font-size: 20px;
+                margin: 10px;
+            }
+            .class-p {
+                border: 1px solid black;
+                padding: 5px;
+            }
+            #test-2 {
+                font-size: 30px;
+                padding: 10px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>First H1</h1>
+        <h1>Second H1</h1>
+        <h3>First H3</h3>
+        <h3>Second H3</h3>
+        <h5>First H5</h5>
+        <h5>Second H5</h5>
+        <h5>Third H5</h5>
+        <div id="box">
+            <div>First DIV</div>
+            <div>Second DIV</div>
+            <div>Third DIV</div>
+        </div>
+        <div>Fourth DIV</div>
+        <div id="cont">
+            <p>First P</p>
+            <p>Second P</p>
+            <p>Third P</p>
+        </div>
+        <div id="temp">
+            <p>Test P1</p>
+            <p>Test P2</p>
+            <p>Test P3</p>
+        </div>
+        <hr/>
+<<<<<<< HEAD
+        <button onclick="changeFirst()">Change H1</button>
+        <button onclick="changeThree()">Change H3</button>
+        <button onclick="changeFive()">Change H5</button>
+        <button onclick="changeDiv()">Change DIV</button>
+        <button onclick="changePara()">Change P</button>
+        <button onclick="setId()">Set ID</button>
+        <script>
+                function changeFirst() {
+                    var firstDiv = document.querySelector('h1');
+                    firstDiv.setAttribute('class', 'class-h1');
+                }
+        
+                function changeThree() {
+                    var bodyElem = document.querySelector('body');
+                    var firstDiv = document.querySelectorAll('h3');
+                    for (i = 0; i < firstDiv.length; i++) {
+                        first = firstDiv[i];
+                        first.setAttribute('class', 'class-h3');
+                    }
+                }
+        
+                function changeFive() {
+                    var bodyElem = document.querySelector('body');
+                    var firstDiv = document.querySelectorAll('h5');
+                    for (i = 0; i < firstDiv.length; i++) {
+                        first = firstDiv[i];
+                        first.setAttribute('class', 'class-h5');
+                    }
+                }
+        
+                function changeDiv() {
+                    var bodyElem = document.querySelector('box');
+                    var firstDiv = document.querySelectorAll('#box div');
+                    for (i = 0; i < firstDiv.length; i++) {
+                        first = firstDiv[i];
+                        first.setAttribute('class', 'class-div');
+                    }
+                }
+        
+                function changePara() {
+                    var bodyElem = document.querySelector('cont');
+                    var firstDiv = document.querySelectorAll('#cont p');
+                    for (i = 0; i < firstDiv.length; i++) {
+                        first = firstDiv[i];
+                        first.setAttribute('class', 'class-p');
+                    }
+                }
+        
+                function setId() {
+                    var bodyElem = document.querySelector('temp');
+                    var firstDiv = document.querySelectorAll('#temp p');
+                    for (i = 0; i < firstDiv.length; i++) {
+                        first = firstDiv[1];
+                        first.setAttribute('id', 'test-2');
+                    }
+                }
+            </script>
+=======
+        <button>Change H1</button>
+        <button>Change H3</button>
+        <button>Change H5</button>
+        <button>Change DIV</button>
+        <button>Change P</button>
+        <button>Set ID</button>
+        <script>         
+        </script>
+>>>>>>> e52f65c394009c3c819b49ad8c2ec2f01ed68ae0
+    </body>
+</html>
