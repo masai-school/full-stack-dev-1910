@@ -10,8 +10,8 @@ Use only bootstrap classes no extra classes or inline styles are allowed, if you
 
 Create 2 files with the names 
 
-- `practise_1.html`
-- `practise_2.html`
+- FSD.BTSRP.1.1 `practise_1.html`
+- FSD.BTSRP.1.2 `practise_2.html`
 
 
 The layouts should look smiliar to  the corresponding images in templates folder  `course/week_5/day_4/templates` 
