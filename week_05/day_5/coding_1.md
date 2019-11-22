@@ -16,3 +16,4 @@ Create 4 files with the names
 - FSD.BTSRP.2.4 `layout_4.html`
 
 The layouts should look like the corresponding images the `course/week_5/day_4/layouts` folder in the repository (the design of how they should look in different screen sizes is also mentioned)
+
