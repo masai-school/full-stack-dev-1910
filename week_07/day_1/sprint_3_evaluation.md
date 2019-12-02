@@ -1,7 +1,5 @@
-## Sprint-2 Evaluation-2
+## Sprint-3 Evaluation-1
 
-- Create a page `index.html`
-- The webpage should be able to handle grocery data
 - Submission folder `submissions/<your_folder>/week_7/day_1`
 - The end time for submission is 6PM or 18:00 hours, 2nd Dec, 2019.
 
