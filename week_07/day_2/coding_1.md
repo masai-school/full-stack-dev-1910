@@ -42,3 +42,4 @@
 - Make a table to list all the users
 - You should be able to sort the users based on asc / desc order of usernames or names
 - Filter them based on all / admin / user
+- add a delete button, and delete that particular user
