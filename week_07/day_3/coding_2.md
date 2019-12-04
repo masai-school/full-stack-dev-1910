@@ -9,6 +9,7 @@ var students = require('./students.json')
 - Cretae an index.html page
 - Import the json file and populate it in a tabular column
 - Use bootstrap for the UI
+- use es6 wherever you can, follow clean code practises
 
 ### FSD.JS.16.2
 - The user should be able to select the total no of results per page.
