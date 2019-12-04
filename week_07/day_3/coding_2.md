@@ -11,6 +11,11 @@ var students = require('./students.json')
 - Use bootstrap for the UI
 - use es6 wherever you can, follow clean code practises
 
+example for one user
+```javascript
+{"id":1,"first_name":"Rae","last_name":"Thyng","email":"rthyng0@nifty.com","gender":"Female","english":36,"maths":61,"science":68}
+```
+
 ### FSD.JS.16.2
 - The user should be able to select the total no of results per page.
     - provide the following options
