@@ -1,8 +1,4 @@
-
-Use the following to import data
-Copy the students.json file from this directory
-
-Use this repo and follow instructions to get the data:
+### Use this repo and follow instructions to get the data:
 
 [https://github.com/albseb511/data-json](https://github.com/albseb511/data-json)
 
