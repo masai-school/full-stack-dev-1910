@@ -6,11 +6,11 @@
 ![](https://img.shields.io/badge/CODING-SESSION2-red)
 
 **SUBMISSION:**
-- Create the files into the location `~/repos/cohort_2/submissions/<your_folder>/week_6/day_1/session_2/` 
+- Create the files into the location `~/repos/cohort_3/submissions/<your_folder>/week_7/day_4/session_1/` 
 - Push the file  back to the online repo
 
 
-#### Coding Session 2 A
+#### FSD.JS.17.1
 
 Create the following files
 - index.html
@@ -50,7 +50,7 @@ It should have the following functions:
 
    
 
-#### Coding Session 2 B
+#### FSD.JS.17.2
 
 Create a class `Student`:
 It should have the following variables: use the names as per given
@@ -76,6 +76,7 @@ It should have the following functions:
 Please follow the names and instructions strictly. 
 
 
+#### FSD.JS.17.3
 **SUBMISSION:**
 - Create a new file `test.md` and copy these two questions into it, and write your answers into that. 
 - Explain the answer as well.
