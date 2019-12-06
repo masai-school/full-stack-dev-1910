@@ -19,7 +19,6 @@
 
 **NOTE3:** You have to write all your code within the `script` tag in the html file. 
 
-A template file called `template.html` is given to you here [https://github.com/masai-school/full-stack-dev/blob/master/course/week_6/day_3/session1/template.html]https://github.com/masai-school/full-stack-dev/blob/master/course/week_6/day_3/session1/template.html). 
 
 For each part of this coding session you must make a copy of that template file and rename it. The filenames will be given in each part. You could either copy this file's contents or you could pull/clone the full-stack-dev repository and copy the file and rename it. 
 
