@@ -1,3 +1,7 @@
+## Week 7 Day 5
+
+### Coding Session 1
+
 ### FSD.JS.18.1
 
 - create an folder `coding_1`
