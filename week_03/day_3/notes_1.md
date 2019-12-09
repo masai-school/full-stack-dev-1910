@@ -244,8 +244,11 @@ The variable `number` is said to be a global variable and can be accessed by any
 Consider one last example
 
 ```javascript
-for(var i = 0; i < 10; i++){
-    console.log(i)
+function loop(){
+	for(var i = 0; i < 10; i++){
+		console.log(i)
+	}
+	// the variable `i` can be accessed here
 }
 // the variable `i` cannot be accessed here
 ```
