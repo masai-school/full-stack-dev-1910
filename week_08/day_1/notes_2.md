@@ -1,4 +1,4 @@
-## Week 8 Day 2
+## Week 8 Day 1
 
 ## Introduction to ReactJS Part 2
 
