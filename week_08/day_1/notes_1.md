@@ -12,9 +12,9 @@ To read more about the `create-react-app` package you can visit their official g
 
 Follow these steps to setup and run a react app locally:
 
-1. Make a directory where you would want to create a react app and `cd` in to the directory. 
-2. Make sure you have NPM installed by running `npm --version`. This should show you the version number of NPM you have installed.
-3. Then run `npm install -g create-react-app`. 
+- Make a directory where you would want to create a react app and `cd` in to the directory. 
+- Make sure you have NPM installed by running `npm --version`. This should show you the version number of NPM you have installed.
+- Then run `npm install -g create-react-app`. 
 
 `Breaking down this command:`
 
@@ -22,9 +22,9 @@ Follow these steps to setup and run a react app locally:
 The `-g` flag tells NPM to install that package globally rather than locally. This allows us to use this package from the command-line.
 (Note: Some of you might need to run `sudo` before the command, dependent on your systems write permissions.)
 
-If all goes well you should see something like `added 91 packages from 45 contributors in 15.389s` in your terminal. 
 `
-4. Now run `create-react-app <name_of_your_app>`. This will take a bit of time since this is building a lot of files so be patient!
+- Now run `create-react-app <name_of_your_app>`. 
+- This will take a bit of time since this is building a lot of files so be patient!
 
 If all goes well you should get a message that says `Happy Hacking!`. 
 
