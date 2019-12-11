@@ -124,6 +124,9 @@ To do this return `null` instead of any JSX in the render function.
 
 ## Using setInterval the right way using `componentWillUnmount`
 
+CODESANDBOX EXAMPLE
+[https://codesandbox.io/s/zealous-sun-crew8](https://codesandbox.io/s/zealous-sun-crew8)
+
 An great use-case for `componentWillUnmount` is the following example.
 
 Here's the right way to do this:
