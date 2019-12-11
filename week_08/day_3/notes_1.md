@@ -89,7 +89,7 @@ render(){
 ```
 
 
-[Codesandbox example](https://codesandbox.io/s/qidhd)
+
 
 **Example:** 
 
@@ -124,8 +124,11 @@ To do this return `null` instead of any JSX in the render function.
 
 ## Using setInterval the right way using `componentWillUnmount`
 
-CODESANDBOX EXAMPLE
-[https://codesandbox.io/s/zealous-sun-crew8](https://codesandbox.io/s/zealous-sun-crew8)
+CODESANDBOX EXAMPLE:
+
+[Codesandbox example](https://codesandbox.io/s/qidhd)
+
+[codesandbox example 2](https://codesandbox.io/s/component-lifecycles-crew8)
 
 An great use-case for `componentWillUnmount` is the following example.
 
