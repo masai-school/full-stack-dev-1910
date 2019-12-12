@@ -21,10 +21,12 @@
 - Add a feature to filter according to department, or show all
 
 ### RJS.4.5
-- Sort from ascending or descending of Salary
+- Add a feature to sort from ascending or descending of Salary
 
 ### RJS.4.6
 - Delete a record
+- Use a delete button
 
 ### RJS.4.7
 - Update a record
+- Use an edit button
