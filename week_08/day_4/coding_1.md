@@ -15,7 +15,8 @@
 - Display the data on the same page in a tabular format
 
 ### RJS.4.3
-- Use localstorage to persist data
+- Use localstorage to persist data (HINT: Update the state, and then update localstorage)
+- use componentDidMount to load data
 
 ### RJS.4.4
 - Add a feature to filter according to department, or show all
