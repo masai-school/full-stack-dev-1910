@@ -15,13 +15,16 @@
 - Display the data on the same page in a tabular format
 
 ### RJS.4.3
-- Add a feature to filter according to department, or show all
+- Use localstorage to persist data
 
 ### RJS.4.4
-- Sort from ascending or descending of Salary
+- Add a feature to filter according to department, or show all
 
 ### RJS.4.5
-- Delete a record
+- Sort from ascending or descending of Salary
 
 ### RJS.4.6
+- Delete a record
+
+### RJS.4.7
 - Update a record
