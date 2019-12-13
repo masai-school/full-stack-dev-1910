@@ -2,7 +2,18 @@
 
 #### Project Day
 
-Design and code a game picked by you
+Design and code a game picked by you using React
+
+`Minimum Expectations`
+
+- Making a Single Page Website by using React Framework
+- Clean code with comments, proper variable names and indentation
+- Make seperate Components and use Class based Components wherever necessary. 
+- Seperate App into components
+- lift state up wherever necessary
+- Use localStorage to store and use it across the application
+- Add more features and functionalities, which may not be covered in the description below. It is written only to give structure to the app.
+
 
 **OPTIONS**
 
@@ -12,20 +23,25 @@ Design and code a game picked by you
 4. Power Tracker
 5. Stock Tracker
 6. Marks Recorder
+7. Ticket management system
+8. POS management system : (Point of Sale) 
+9. Vehicle Renting System:
+10. Food delivery System:
 
-Static Web page
-7. Masai School](https://www.masaischool.com/)
-8. [OYO ROOMS](https://www.oyorooms.com)
-9. [Zomato](https://www.zomato.com)
-10. [Flipkart](https://www.flipkart.com/)
-11. [Microsoft](https://www.microsoft.com/en-in)
-12. [B-Hive](https://bhiveworkspace.com/)
-13. [91 Springboard](https://www.91springboard.com)
-14. [PVR Cinemas](https://www.pvrcinemas.com/)
-15. [Acko](https://www.acko.com)
-16. [Zerodha](https://zerodha.com/)
-17. [ZebPay](https://www.zebpay.com/)
-18. [FreshDesk](https://freshdesk.com/)
+Static Web page:
+
+11. Masai School](https://www.masaischool.com/)
+12. [OYO ROOMS](https://www.oyorooms.com)
+13. [Zomato](https://www.zomato.com)
+14. [Flipkart](https://www.flipkart.com/)
+15. [Microsoft](https://www.microsoft.com/en-in)
+16. [B-Hive](https://bhiveworkspace.com/)
+17. [91 Springboard](https://www.91springboard.com)
+18. [PVR Cinemas](https://www.pvrcinemas.com/)
+19. [Acko](https://www.acko.com)
+20. [Zerodha](https://zerodha.com/)
+21. [ZebPay](https://www.zebpay.com/)
+22. [FreshDesk](https://freshdesk.com/)
    
 **Minimum Expectations**
 
@@ -92,6 +108,41 @@ Desgin and implement a system to record the marks of a students and see basic an
 - Should be able to see the data aggregrated with any of the above filters and also basic statistics like average, minimum and maximum (probably with differnt style when the student is below average and above average)
 - Should be able to see the individual students performance in a detailed fashion
 
+
+## Ticket Management System: 
+- Create a Dashboard 
+- Companies should be able to create new profiles 
+- Users should be able to raise a ticket on the companies
+- Track and manage support tickets
+- Respond to tickets and categorise them accordingly
+- Make use of visualisation tools and other reporting techniques
+
+## POS management system : (Point of Sale)
+- Stock management (Items and Kits)
+- VAT, customer and multi tiers taxation
+- Sale register with transactions logging
+- Quotation and invoicing
+- Expenses logging
+- Receipt and invoice viewing
+- Suppliers and Customers database
+- Reporting on sales, orders, expenses, inventory status
+
+## Vehicle Renting System:
+- Create a database of your company vehicles
+- Vehicles could be in various locations
+- Users should be able to select vehicles and drop it at their choice
+- Make invoices for each ride and store financial data
+- Vehicles location should be changed once they move from one location to the other
+- Add visualsation and other reports
+- Update fuel information on these vehicles and based on the usage
+
+## Food delivery System:
+- Create an interface where users can search for restaurants and select food items to be ordered
+- You should list different restaurants with different food items
+- You should also have a page where you can create new restaurants, add information on food items and price information
+- Show sales report of each restaurant and visualise it in charts also
+- Show combined report of daily for the Food delivery company also
+- Calculate total cost for the orders and show order history
 
 **SUBMISSION**
 
