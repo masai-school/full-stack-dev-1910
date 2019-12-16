@@ -52,7 +52,7 @@
 
 ### `CSS`:
 - Use twitter bootstrap and all the pages should be responsive
-- Use inline styles is not allowed
+- Use of inline styles is not allowed
 - Use css modules
 
 ### `REACT.JS`:
