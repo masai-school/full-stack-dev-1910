@@ -49,6 +49,9 @@ Folder structure:
   - Recreate a static webpage of https://www.uber.com/in/en/ using bootsrap (as similar as possible)
   - Make the page responsive so that it looks good in all screen sizes
   - Try to keep the use of custom CSS to very minimal
+  - Make seperate Components and use Class based Components wherever necessary. 
+  - Reuse components wherever possible
+
 
 
 ### `CSS`:
