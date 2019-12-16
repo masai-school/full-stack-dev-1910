@@ -2,7 +2,7 @@
 
 - Submission folder `submissions/<your_folder>/week_9/day_1`
 - The end time for submission is 6:30PM or 18:30 hours, 16th Dec, 2019.
-- Push package.json, src, public folders to git along
+- Push package.json, src, public folders to git 
 - Update README.md with your name
 
 ###  Create the following pages and link them in your App.js with the given functionality:
