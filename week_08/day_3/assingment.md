@@ -1,8 +1,3 @@
-![](https://img.shields.io/badge/MASAI-SPARTANS-red?logo=&style=for-the-badge)
-
-![](https://img.shields.io/badge/WEEK7_DAY2-ASSIGNMENT-green)
-
-
 #### Assignment - RJS.3.1
 
 **SUBMISSION:**
