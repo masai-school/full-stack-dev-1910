@@ -42,7 +42,7 @@
     - Display (`ProductData.js`) tabular form data of based on cetegory and COD. 
     - User should be able to select the category and COD, and the table should change.
         - (For example, user should be able to select category and select a COD enabled item, and filter only those valid)
-    - Show total Qty, total value of goods in each category
+    - Show total Qty, total value of inventory in each category
 
 - `Uber.js`
   - Recreate a static webpage of https://www.uber.com/in/en/ using bootsrap (as similar as possible)
