@@ -7,6 +7,7 @@
 
 ###  Create the following pages and link them in your App.js with the given functionality:
 
+Folder structure:
 ```
 - src
     - index.js
