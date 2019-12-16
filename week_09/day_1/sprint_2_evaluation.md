@@ -11,7 +11,7 @@
     - job title
     - salary per month
     - department
-- Display in tabular form data of grocery items based on department. User should be able to select the department, and the table should change
+- Display in tabular form data based on department. User should be able to select the department, and the table should change
 - Show total and average salary for employees belonging to each category also in the table
 - Use the following categories:
     - Engineering
