@@ -40,20 +40,20 @@ The pages you design do not have to contain content right now. However they shou
 
 The following should be common for every page of your application:
 
-## RJS.5.2
+## RJS.6.2
 - [ ] Your website must contain a navigation bar with links to different product categories and other pages.
 
-## RJS.5.3
+## RJS.6.3
 - [ ] Your website must contain a banner at the very top advertising an ongoing deal or coupon code.
 
-## RJS.5.4
+## RJS.6.4
 - [ ] You website must contain a footer with some social media icons and some links for FAQ, Job opportunities etc.
 
-## RJS.5.5
+## RJS.6.5
 - [ ] A Shopping Cart Icon on your navigation bar. This does not have to do anything for now.
 
 **The following are routes/pages you must have:**
-## RJS.5.6
+## RJS.6.6
 - [ ] Products categories depending on the kind of product you have. Eg: A clothing store would have Mens, Womens, Unisex etc. It is up to you.
 - [ ] About Us Page.
 - [ ] FAQ page.
