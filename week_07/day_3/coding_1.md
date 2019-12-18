@@ -12,8 +12,8 @@ Submit to respective folders
 ######
 1. What is the value of arr. If the answer is in an array please use [num1,num2,num3] format
 ```javascript
-arr = [55,200,215,230,280]
-arr.map(a=>a*10)
+let arr = [55,200,215,230,280]
+arr = arr.map(a=>a*10)
 
 
 ```
@@ -35,8 +35,8 @@ Answer
 3. What is the value of `arr`? If the answer is in an array please use [num1,num2,num3] format
 
 ```javascript
-arr = [55,200,215,230,280]
-arr.map(a=>a%10)
+let arr = [55,200,215,230,280]
+arr = arr.map(a=>a%10)
 ```
 Answer
 
@@ -57,8 +57,8 @@ Answer
 ```
 5.  What is the value of `arr`? If the answer is in an array please use [num1,num2,num3] format
 ```javascript
-arr = [220,200,215,205,280]
-arr.filter(a=>a>220)
+let arr = [220,200,215,205,280]
+arr = arr.filter(a=>a>220)
 ```
 Answer
 
@@ -67,8 +67,8 @@ Answer
 ```
 6.  What is the value of `arr`? If the answer is in an array please use [num1,num2,num3] format
 ```javascript
-arr = [55,200,215,230,280]
-arr.filter(a=>a>200)
+let arr = [55,200,215,230,280]
+arr = arr.filter(a=>a>200)
 ```
 Answer
 
@@ -77,8 +77,8 @@ Answer
 ```
 7. What is the value of `arr`? If the answer is in an array please use [num1,num2,num3] format
 ```javascript
-arr = [55,200,300,230,280]
-arr.reduce((a,b)=>a>b?a:b)
+let arr = [55,200,300,230,280]
+arr = arr.reduce((a,b)=>a>b?a:b)
 ```
 Answer
 
@@ -87,8 +87,8 @@ Answer
 ```
 8.  What is the value of `arr`? If the answer is in an array please use [num1,num2,num3] format
 ```javascript
-arr = [55,200,300,230,280]
-arr.reduce((a,b)=>a>b?a+100:b)
+let arr = [55,200,300,230,280]
+arr = arr.reduce((a,b)=>a>b?a+100:b)
 ```
 Answer
 
