@@ -1,8 +1,4 @@
-# Week 9 Day 2
-
-![](https://img.shields.io/badge/MASAI-SPARTANS-red?logo=&style=for-the-badge)
-
-![](https://img.shields.io/badge/WEEK9-DAY2-green)
+# Week 10 Day 1
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" height="100" /> 
 <img src="https://redux.js.org/img/redux.svg" width="100" height="100" /> 
