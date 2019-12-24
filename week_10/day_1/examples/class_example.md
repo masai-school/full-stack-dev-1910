@@ -234,7 +234,6 @@ const reducer = (state,action) => ({
 // WE CAN IMPORT CREATESTORE
 // WE CAN REMOVE STORE CLASS
 // WE CAN REMOVE NEW
-// CREATESTORE TAKES TWO ARGUMENTS, A REDUCER, AND AN INITIAL VALUE 
 
 // import {createStore} from 'redux'
 const {createStore} = require('redux')
