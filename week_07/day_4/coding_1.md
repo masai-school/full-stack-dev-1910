@@ -1,9 +1,4 @@
-# Week 6 - Day 1
-![](https://img.shields.io/badge/MASAI-SPARTANS-red?logo=&style=for-the-badge)
-
-![](https://img.shields.io/badge/WEEK6-DAY1-green)
-
-![](https://img.shields.io/badge/CODING-SESSION2-red)
+# Week 7 Day 4
 
 **SUBMISSION:**
 - Create the files into the location `~/repos/cohort_3/submissions/<your_folder>/week_7/day_4/session_1/` 
