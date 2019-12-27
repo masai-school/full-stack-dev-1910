@@ -1,13 +1,5 @@
 # Week 10 Day 1
 
-![](https://img.shields.io/badge/MASAI-SPARTANS-red?logo=&style=for-the-badge)
-
-![](https://img.shields.io/badge/WEEK10-DAY1-green)
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" height="100" /> 
-<img src="https://redux.js.org/img/redux.svg" width="100" height="100" /> 
-
-
 [Why use react-redux?](https://react-redux.js.org/introduction/why-use-react-redux)
 
 ## `Redux`
