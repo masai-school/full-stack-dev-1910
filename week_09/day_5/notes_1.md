@@ -1,8 +1,5 @@
-# Week 9 Day 1
+# Week 9 Day 5
 
-![](https://img.shields.io/badge/MASAI-SPARTANS-red?logo=&style=for-the-badge)
-
-![](https://img.shields.io/badge/WEEK9-DAY1-green)
 
 ## Introduction to Routing with React III
 
