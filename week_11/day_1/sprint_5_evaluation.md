@@ -23,8 +23,8 @@ App.js
 - On the `landing page` show a dashboard, You need to check if the user is logged in.
 - If hes not logged in `redirect` him to `/login`
 - In the dashbaord a user has a few buttons which redirect him to different pages
-    - ADD NEW CUSTOMER
-    - VIEW ALL CUSTOMERS
+    - ADD NEW STAFF
+    - VIEW ALL STAFF
 - In the ADD page user should be able to information of `employees`
     - name
     - email
