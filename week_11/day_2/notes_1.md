@@ -38,7 +38,7 @@ Here are some reasons why you start writing your own test
     - testing output of pure functions like redux
 
 
-## `Jest`
+## [Jest](https://jestjs.io)
 
 I believe the name originated as a short for Javascript test -> Jest
 
@@ -106,3 +106,10 @@ The following command will run the test
 npm run test
 ```
 
+
+`Jest documentation:`
+
+- [Getting started](https://jestjs.io/docs/en/getting-started)
+- [Expect](https://jestjs.io/docs/en/expect)
+- [Globals](https://jestjs.io/docs/en/api)
+- [Async code](https://jestjs.io/docs/en/api)
