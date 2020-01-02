@@ -154,7 +154,7 @@ ReactDOM.render(
 );
 ```
 
-The example covered here can be seen at [https://github.com/masai-school/full-stack-dev/tree/master/course/week_7/day_1/session1/hello_world](https://github.com/masai-school/full-stack-dev/tree/master/course/week_7/day_1/session1/hello_world). 
+The example covered here can be seen at [https://github.com/masai-school/full-stack-dev/tree/master/course/week_07/day_1/session1/hello_world](https://github.com/masai-school/full-stack-dev/tree/master/course/week_07/day_1/session1/hello_world). 
 
 If you want to run the above app locally, you must clone the repository and run `npm install` within the project folder to install all the required dependencies. 
 
@@ -238,7 +238,7 @@ import App from "./components/App.js"
 ReactDOM.render(<App />, document.getElementById('root'));
 ```
 
-You can check the source code out for this app here [https://github.com/masai-school/full-stack-dev/tree/master/course/week_7/day_1/session1/multiple_test](https://github.com/masai-school/full-stack-dev/tree/master/course/week_7/day_1/session1/multiple_test).
+You can check the source code out for this app here [https://github.com/masai-school/full-stack-dev/tree/master/course/week_07/day_1/session1/multiple_test](https://github.com/masai-school/full-stack-dev/tree/master/course/week_07/day_1/session1/multiple_test).
 
 
 
