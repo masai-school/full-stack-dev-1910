@@ -62,7 +62,7 @@ Feel free to add more features or options
 
 **SUBMISSION**
 
-- Deadline 28th December 2019 2:45
+- Deadline 2nd Jan 2020 7:00 pm
 
 
 **TIPS**
