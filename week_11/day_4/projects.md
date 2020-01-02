@@ -21,12 +21,6 @@ Select a project which hasnt been done before:
 3. Vehicle Renting System:
 4. Food delivery System:
 
-**Minimum Expectations**
-
-- Making a Single Page Website by using React Framework
-- Clean code with comments, proper variable names and indentation
-- Make seperate Components and use state based Components wherever necessary. 
-- Seperate App into components
 
 Feel free to add more features or options
 
