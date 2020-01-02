@@ -16,16 +16,10 @@ Select a project which hasnt been done before:
 
 **OPTIONS**
 
-1. Expense Manager
-2. Health Advisor
-3. Bill Generator
-4. Power Tracker
-5. Stock Tracker
-6. Marks Recorder
-7. Ticket management system
-8. POS management system : (Point of Sale) 
-9. Vehicle Renting System:
-10. Food delivery System:
+1. Ticket management system
+2. POS management system : (Point of Sale) 
+3. Vehicle Renting System:
+1. Food delivery System:
 
 **Minimum Expectations**
 
@@ -35,62 +29,6 @@ Select a project which hasnt been done before:
 - Seperate App into components
 
 Feel free to add more features or options
-
-### EXPENSE MANAGER
-
-Design and implement a sytem to keep a  track of the income you are receiving and the expenditure you are making
-
-- Should be able to add all the money earned from various sources (Eg: Salary - Rs 50,000)
-- Should be able to record all the expenses made (Eg: Rent - Rs 10,000)
-- Should show the total money earned and spent along with the balance amount
-- Should show an indication (probably with different style when the balance is running low)
-
-
-### HEALTH ADVISOR
-
-Design and implement a system that keep a track of your calories intake and expenditure and suggests the weight you are gaining or loosing. 
-
-- Should be able to add the food and calories corresponding to it (Eg: Juice - 200 Cal)
-- Should be able to record the exercise and the calories spend (Eg: Cycling - 700 Cal)
-- Should show the total calories consumed and spent, including the net gain or loss
-- Should show the fat gain or loss (1kg of fat has approx 7000 Cal) with different styles for gain or loss
-
-
-### BILL GENERATOR
-
-Design and implement a system to generate the bill at a restaurant
-
-- Should be able to add an entry of ordered items along with quantity. (Eg: Dosa - 40 * 2 = 80)
-- Should have the ability to configure the tax percentage and add tips (Eg: Tax - 5%)
-- Should have the facility to give discount to the customer (Eg: Friday Fun - Rs 500)
-- Should show the total bill amount after the tax, tips and discount
-
-
-### POWER TRACKER
-
-Design and implement a system to showcase the electricity consumption and the bill amount for the usage
-
-- Should be able to add an applicance entry, it's wattage and consumption on a daily/monthly basis (Eg: Bulb - 40W * 4hr/day, Oven - 2000W * 8hr/month)
-- Should show the overall units consumption for the month 
-- Should be able to show the total bill amount assume the unit rate varies for different slabs (Rs 4 below 100 units, Rs 5 below 300 units, Rs 7 below 500 units, Rs 10)
-
-### STOCK KEEPER
-
-Design and implement a system to keep a track of the stock of various items in a store
-
-- Should be able to add an entry when the stock arrives. (Eg: Rice - 10kgs)
-- Should be able to deduct from the stock when a sale is made (Eg: Rice - 2kgs)
-- Should show the balance stock of various items in the store
-- Should show a indication (probably with differnt style when the stock of an item is running low)
-
-
-###  MARKS RECORDER
-
-Desgin and implement a system to record the marks of a students and see basic analytics
-
-- Should be able to add an entry for the student for a grade, section, exam type and subject
-- Should be able to see the data aggregrated with any of the above filters and also basic statistics like average, minimum and maximum (probably with differnt style when the student is below average and above average)
-- Should be able to see the individual students performance in a detailed fashion
 
 
 ## Ticket Management System: 
