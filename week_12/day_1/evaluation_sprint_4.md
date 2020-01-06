@@ -19,9 +19,9 @@ Folder structure:
         - Web
             - PVR.js
         - Product
-            - Product.js
-            - ProductTable.js
-            - ProductForm.js
+            - Cart.js
+            - CartTable.js
+            - CartForm.js
 
 ```
 
@@ -33,13 +33,13 @@ Folder structure:
   ![https://i.imgur.com/5hNEpfS.png](https://i.imgur.com/5hNEpfS.png)
 
 - `Cart.js` Create a page with the following features 
-    - Add new items to a shopping cart (`ProductForm.js`)
+    - Add new items to a shopping cart (`CartForm.js`)
         - item name
         - item id
         - item desc
         - item category
         - price
-    - Display (`ProductData.js`) tabular form data of based on cetegory. 
+    - Display (`CartData.js`) tabular form data of based on cetegory. 
     - User should be able to select the category
     - Show total value on cart
 
