@@ -39,7 +39,7 @@ Folder structure:
         - item desc
         - item category
         - price
-    - Display (`CartData.js`) tabular form data of based on cetegory. 
+    - Display (`CartTable.js`) tabular form data of based on cetegory. 
     - User should be able to select the category
     - Show total value on cart
 
