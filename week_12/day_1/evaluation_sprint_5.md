@@ -34,11 +34,11 @@ App.js
     - sales in units for FY19-20
 - In the view Vehicles component, calculate total sales.
 - User should be able to do the following things as well:
-    - View all the sales staff in a tabular form, `sort` `total_sales` in `ascending` or `descending` order
-    - User should be able to `delete` a particular car
+    - View all the sales in a tabular form, `sort` `total_sales` in `ascending` or `descending` order
+    - User should be able to `delete` a particular vehicle
     - Add pagination for 5 per page
     - Show no of pages as well. 
-- When you click on the name of a customer, you should be `redirected to a page with only that vehicles information`
+- When you click on the name of a vehicle, you should be `redirected to a page with only that vehicles information`
     - User should be able to `update` information from this page
     - On update, give a success message stating update was successful
     - Add an option on this page to `go back` to all users page
