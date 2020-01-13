@@ -67,10 +67,10 @@ App.js
 - User should be able to do the following things as well:
     - Feature to `sort` `CIBIL Score` and `Loan amount` in `ascending` or `descending` order
     - Feature to `filter` based on `loan type` also should be made
-    - User should be able to `delete` a particular vehicle
+    - User should be able to `delete` a particular user
     - Add pagination for 5 per page
     - Show no of pages as well. 
-- When you click on the name of a vehicle, you should be `redirected to a page with only that vehicles information`
+- When you click on the name of a user, you should be `redirected to a page with only that users information`
     - User should be able to `update` information from this page
     - On update, give a success message stating update was successful
     - Add an option on this page to `go back` to all users page
