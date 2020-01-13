@@ -1,7 +1,7 @@
 ## Sprint-4 Evaluation-2
 
 - Submission folder `submissions/<your_folder>/week_12/day_1`
-- The end time for submission is 3:30PM or 15:30 hours, 6th Jan, 2019.
+- The end time for submission is 7:30PM or 19:30 hours, 13th Jan, 2019.
 - Push package.json, src, public folders to git 
 - Update README.md with your name
 

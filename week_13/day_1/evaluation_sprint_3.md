@@ -1,7 +1,7 @@
 ## Sprint-3 Evaluation-1
 
 - Submission folder `submissions/<your_folder>/week_12/day_1`
-- The end time for submission is 6PM or 18:00 hours, 2nd Dec, 2019.
+- The end time for submission is 7:30PM or 19:30 hours, 13th Jan, 2019.
 
 ###  Create the following pages with the given functionality:
 - `login.html` 
@@ -16,7 +16,7 @@
   - Show pagination at the bottom and clicking the page number should change the data
   - Keep 2 columns and n rows for presenting the data 
   - Make the page responsive 
-  
+
 ### `CSS`:
 - Use twitter bootstrap and all the pages should be responsive
 - Use of any extra CSS and inline styles is not allowed
