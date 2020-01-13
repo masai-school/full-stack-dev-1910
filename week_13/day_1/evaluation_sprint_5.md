@@ -76,6 +76,7 @@ App.js
     - Add an option on this page to `go back` to all users page
 - On the `landing page` You need to check if the user is logged in.
 - If hes not logged in `redirect` him to `/login` Login page
+- use default username: `admin` and password: `admin`
 
 
 #### `RESOURCES`
