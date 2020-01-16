@@ -2,7 +2,7 @@
 
 ### Coding 1
 
-Submission folder `submissions/<your_folder>/week_12/day_4/session_1`
+Submission folder `submissions/<your_folder>/week_13/day_4/session_1`
 
 ### FSD.W13.4.1_1
 - File `hello_range.py` 
@@ -57,10 +57,6 @@ Submission folder `submissions/<your_folder>/week_12/day_4/session_1`
 * ```String Validators```
 * ```Masai Average```
 * ```Better average```
-
-### Coding 2
-
-Submission folder `submissions/<your_folder>/week_12/day_4/session_2`
 
 ### FSD.W13.4.2_1
 - File `mirror_image.py` 
