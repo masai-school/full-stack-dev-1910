@@ -91,7 +91,6 @@ show_name()
 print(name)
 ```
 
-## Python
 
 **Files**
 
