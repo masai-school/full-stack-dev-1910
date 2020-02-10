@@ -69,7 +69,7 @@ Your aim is to build a meeting room booking application
 - In the `home page` a user can see a list of all meeting rooms available for booking
 - Create some placeholder data.
 - In the `home page` should be able to search information of `available` meeting rooms
-- The following details are mandatory for each laptop(add thumbnails to make it look better)
+- The following details are mandatory for each room
     - floor on which the room is located
     - meeting room name
     - capacity
