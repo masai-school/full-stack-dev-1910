@@ -33,6 +33,8 @@ Folder structure:
 - on click, open a modal, and show all details of the movie 
 - Have a search bar as well, where you can search based on title with a filter for year
 
+Extra feature:
+- add pagination for results. 5 per page
 
 Use this for layout:
 
