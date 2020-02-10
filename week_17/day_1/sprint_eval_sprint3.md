@@ -20,6 +20,9 @@ The documentation is available here. http://www.omdbapi.com/
 - add a button more details.
 - on click of more details open a modal and bring a pop up with all details on the modal
 
+Extra feature:
+- add pagination for results 5 per page
+
 ### `CSS`:
 - Use twitter bootstrap and all the pages should be responsive
 - Use of any extra CSS and inline styles is not allowed
