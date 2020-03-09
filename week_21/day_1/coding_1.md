@@ -2,7 +2,7 @@
 
 ### Coding 1
 
-Submission folder `submissions/<your_folder>/week_20/day_1/session_1`
+Submission folder `submissions/<your_folder>/week_21/day_1/session_1`
 
 ### FSD.W21.1.1_1
 - File `process.txt` 
